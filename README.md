@@ -32,7 +32,7 @@ Materyaller:
 1 adet yumurta 
 mikrodalga
 eğer bir tehlike olursa diye kask.
-başta mikrodalga sıcaklığı 90-270 derecelerde ayarlanıyo.Sonra yumurta konuluyo ve yaklaşık 45saniye bekleniyo ve gözlem yapılırken mikrodalganın yanından uzak duruluyo şiddetli patlama olanağı karşısında.Bu deney her yerde yapılabilir fakat insanlar mikro dalganın yanında durmamalıdır.Yumurta kabuklu olduğundan ısıyı içinde tutabilir buda patlamaya sebep olabilir.
+başta mikrodalga sıcaklığı 600 derecede ayarlanıyo.Sonra yumurta konuluyo ve yaklaşık 45saniye bekleniyo ve gözlem yapılırken mikrodalganın yanından uzak duruluyo şiddetli patlama olanağı karşısında.Bu deney her yerde yapılabilir fakat insanlar mikro dalganın yanında durmamalıdır.Yumurta kabuklu olduğundan ısıyı içinde tutabilir buda patlamaya sebep olabilir.
 # Bulgular (Results)
 Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
 
