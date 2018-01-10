@@ -34,10 +34,7 @@ mikrodalga
 eğer bir tehlike olursa diye kask.
 başta mikrodalga sıcaklığı 600 derecede ayarlanıyo.Sonra yumurta konuluyo ve yaklaşık 45saniye bekleniyo ve gözlem yapılırken mikrodalganın yanından uzak duruluyo şiddetli patlama olanağı karşısında.Bu deney her yerde yapılabilir fakat insanlar mikro dalganın yanında durmamalıdır.Yumurta kabuklu olduğundan ısıyı içinde tutabilir buda patlamaya sebep olabilir.
 # Bulgular (Results)
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
-
-Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
-
+sonuç olarak deney tam başarılı olamadı ve yumurta patlamadı.Diğerki yapışımda bu deneyi 1 dk değil 1buçuk dakika yapcam ve yumurtaya tam bakcam.deneyde yumurta patlamadı ama çatlayıp içinden yumurtanın sıvısı çıktı.
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
 Burasını doldurmaya görek yoktur. Daha sonraki ödevin konusun olacaktır. 
