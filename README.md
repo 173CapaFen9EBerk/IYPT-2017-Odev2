@@ -25,57 +25,14 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 # Özet (Abstract)
  Microwawe Oven" projesinde yumurtaların neden mikrodalga da pişirilmediğne,yumurtanın yapısını inceliycem ve bu olayla ilgili vakalara bakcam.Baktığım kaynakçalara göre yumurta mikrodalgaya konulup ısıtıldığında belli bir süre sonrasında patladığı gözlemlenmiştir.Bunun nedeni olarak sert kabuklu besinlerin ısıyı içinde hapsetmesine ve içerde oluşan basınçın besini patlatmasındandır.Mikrodalga ışınları yumurtanın içinde buharlaşmasına sebep olur.Buharlaşma gitgide artıkça kabuğun içindede basınç dahada artar.Basınç belli bir sınırı geçince de yumurta patlar.Yumurtanın patlaması o kadar şiddetli olur ki mikrodalganın kapağı açılır ve yumurta dağılır.Yumurtanın patlamasıyla alakalı birçok vaka yaşanmıştır.
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Amacım yumurtayı kırmadan mikrodalgada pişirmek ve olacakları gözlemlemek.Bu deneyi başka videolarda izlediğimde yumurta belirli bir sıcaklığa ulaştığında patladığnı gördüm fakat eğer yumurta çatlaksa patlamıyabilceğini gördüm diğerki videolarda.
+Bunun sonucunda yumurta patlayabilir veya yumurta patlamadan kabuğundan yumurta beyazı çıkabilir.Ben kendi çalışmamda yumurtayı mikrodalgada bırakcam ve neler olduğnu gözlemliycem.
 # Materyal ve Yöntem (Experimental Setup)
-
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
-
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
-
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
-
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
-
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
-
+Materyaller:
+1 adet yumurta 
+mikrodalga
+eğer bir tehlike olursa diye kask.
+başta mikrodalga sıcaklığı 90-270 derecelerde ayarlanıyo.Sonra yumurta konuluyo ve yaklaşık 45saniye bekleniyo ve gözlem yapılırken mikrodalganın yanından uzak duruluyo şiddetli patlama olanağı karşısında.Bu deney her yerde yapılabilir fakat insanlar mikro dalganın yanında durmamalıdır.Yumurta kabuklu olduğundan ısıyı içinde tutabilir buda patlamaya sebep olabilir.
 # Bulgular (Results)
 Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
 
