@@ -1,2 +1,3 @@
 Buraya deney resimlerinizi ve grafiklerinizi koyunuz. 
-IMG_0115.jpg.zip
+
+IMG_0115.jpg
