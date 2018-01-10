@@ -36,7 +36,7 @@ başta mikrodalga sıcaklığı 600 derecede ayarlanıyo.Sonra yumurta konuluyo 
 # Bulgular (Results)
 sonuç olarak deney tam başarılı olamadı ve yumurta patlamadı.Diğerki yapışımda bu deneyi 1 dk değil 1buçuk dakika yapcam ve yumurtaya tam bakcam.deneyde yumurta patlamadı ama çatlayıp içinden yumurtanın sıvısı çıktı.
 
-# Sonuç ve Tartışma (Conclusion and Discussion) 
+# Sonuç ve Tartışma (Conclusion and 
 Burasını doldurmaya görek yoktur. Daha sonraki ödevin konusun olacaktır. 
 
 
